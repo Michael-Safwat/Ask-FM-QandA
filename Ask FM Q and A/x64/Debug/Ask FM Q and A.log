@@ -1,0 +1,5 @@
+﻿  Ask FM Q and A.cpp
+E:\Programming\C++ course\Ask FM Q and A\Ask FM Q and A\Ask FM Q and A.cpp(50,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\Programming\C++ course\Ask FM Q and A\Ask FM Q and A\Ask FM Q and A.cpp(441,1): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+E:\Programming\C++ course\Ask FM Q and A\Ask FM Q and A\Ask FM Q and A.cpp(442): warning C4172: returning address of local variable or temporary: choice
+  Ask FM Q and A.vcxproj -> E:\Programming\C++ course\Ask FM Q and A\x64\Debug\Ask FM Q and A.exe
